@@ -45,10 +45,18 @@
 
 ---
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haqorayush&theme=tokyonight" />
+</p>
+
+---
+
 ## 🔗 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/haqor-ayush/
 - 💻 GitHub: https://github.com/haqorayush
-- 📧 Email: (add your email)
+- 📧 Email: haqorayush@icloud.com
 
 ---
 
