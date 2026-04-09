@@ -45,14 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=haqorayush&show_icons=true&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haqorayush&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/haqor-ayush/
 - 💻 GitHub: https://github.com/haqorayush
