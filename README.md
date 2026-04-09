@@ -46,9 +46,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haqorayush&show_icons=true&theme=tokyonight" />
-</p>
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=haqorayush&show_icons=true&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haqorayush&show_icons=true&theme=tokyonight)
 
 ---
 
