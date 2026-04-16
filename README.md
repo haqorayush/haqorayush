@@ -45,20 +45,7 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=haqorayush&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/haqor-ayush/
 - 💻 GitHub: https://github.com/haqorayush
 - 📧 Email: haqorayush@icloud.com
-
----
-
-## ⚡ Fun Fact
-I enjoy simplifying complex AI systems into real-world usable products 🚀
