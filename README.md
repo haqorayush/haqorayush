@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Dwivedy</h1>
+<h1 align="center">Hi, I'm Ayush Dwivedy</h1>
 <h3 align="center">AI Backend Engineer | M.Tech @ NIT Trichy</h3>
 
 ---
