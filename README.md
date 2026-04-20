@@ -24,7 +24,7 @@
 
 ## 🔥 Featured Projects
 
-### 🧠 Chat.SDK – LLM Integration Framework
+### 🧠 Context-Engine – LLM Integration Framework
 - Plug-and-play SDK for multi-provider LLM integration  
 - Context-aware session memory for multi-turn conversations  
 - Designed for rapid AI agent prototyping  
