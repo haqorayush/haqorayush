@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Dwivedy</h1>
-<h3 align="center">Specialized AI Backend / HPC Engineer</h3>
+<h3 align="center">Backend Developer | Python | Data & APIs</h3>
 
 ---
 
