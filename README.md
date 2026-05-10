@@ -4,10 +4,10 @@
 ---
 
 ## About Me
-- 🔭 Building **scalable AI systems, APIs, and data pipelines**
-- 🤖 Working with **LLMs, GenAI, and backend architectures**
-- ☁️ Deploying production systems on **Microsoft Azure**
-- 🧠 Interested in **Distributed Systems & AI Infrastructure**
+- Building **scalable AI systems, APIs, and data pipelines**
+- Working with **LLMs, GenAI, and backend architectures**
+- Deploying production systems on **Microsoft Azure**
+- Interested in **Distributed Systems & AI Infrastructure**
 
 ---
 
