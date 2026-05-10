@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🔭 Building **scalable AI systems, APIs, and data pipelines**
 - 🤖 Working with **LLMs, GenAI, and backend architectures**
 - ☁️ Deploying production systems on **Microsoft Azure**
@@ -11,7 +11,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,azure,git" />
 </p>
@@ -22,30 +22,30 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🧠 Context-Engine – LLM Integration Framework
+### Context-Engine – LLM Integration Framework
 - Plug-and-play SDK for multi-provider LLM integration  
 - Context-aware session memory for multi-turn conversations  
 - Designed for rapid AI agent prototyping  
 
 ---
 
-### 🌍 Urban Disaster Analytics Platform
+### Urban Disaster Analytics Platform
 - Handles **2GB+ geospatial datasets**
 - Real-time data processing & visualization
 - Built for **decision-making in disaster management**
 
 ---
 
-### 🎙️ AAWAZ – Voice Assistant System
+### AAWAZ – Voice Assistant System
 - Achieved **92% command accuracy**
 - Optimized speech-to-text pipelines (**15% lower latency**)
 - Built using PyTorch + feature engineering
 
 ---
 
-## 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/haqor-ayush/
-- 💻 GitHub: https://github.com/haqorayush
-- 📧 Email: haqorayush@icloud.com
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/haqor-ayush/
+- GitHub: https://github.com/haqorayush
+- Email: haqorayush@icloud.com
